@@ -1,0 +1,1 @@
+mtd -r write /tmp/mtd5.bin/dev/mtd5
